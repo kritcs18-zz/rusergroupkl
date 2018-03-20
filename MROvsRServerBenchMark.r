@@ -1,4 +1,4 @@
-## Comparison between Microsoft R Server and CRAN R modeling functions
+## Comparison between Microsoft Machine Learning Server (formerly Microsoft R Server) and CRAN R modeling functions
 
 # This example demonstrates how to fit a logistic regression using CRAN R,
 # and how the rxGlm() function is dramatically faster and more scalable.
